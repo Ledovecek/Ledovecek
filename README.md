@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/Ledovecek?logo=github&style=for-the
 
 ### Skills
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,docker,cloudflare,idea,kubernetes,redis,spring,java,kotlin,mysql,mongodb,html5,css3,bootstrap,postgresql,firebase,flutter" />
+    <img src="https://skillicons.dev/icons?i=git,docker,cloudflare,idea,kubernetes,redis,spring,java,kotlin,mysql,mongodb,html,css,bootstrap,postgresql,firebase,flutter,linux,vscode" />
 </p>
 
 
