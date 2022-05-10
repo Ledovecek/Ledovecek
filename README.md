@@ -17,7 +17,7 @@ I am Computer science & Networks student.
 src="https://img.shields.io/github/followers/Ledovecek?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-<p align="center">
+<p align="center" href="https://github.com/Ledovecek">
     <img src="https://skillicons.dev/icons?i=git,docker,cloudflare,idea,kubernetes,redis,spring,java,kotlin,mysql,mongodb,html,css,bootstrap,postgresql,firebase,flutter,linux,vscode" />
 </p>
 
