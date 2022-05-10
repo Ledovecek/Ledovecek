@@ -29,6 +29,9 @@ src="https://img.shields.io/github/followers/Ledovecek?logo=github&style=for-the
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,docker,cloudflare,idea,kubernetes,redis,spring" />
+</p>
 
 
 ### Socials
