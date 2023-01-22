@@ -11,7 +11,7 @@ I am Computer science & Networks student.
 * 🚀  I'm currently working on [Rajce.pro](http://rajce.pro)
 * 🧠  I'm learning Kotlin
 * 🤝  I'm open to collaborating on interesting projects of all types
-* ⚡  Working on REST applications
+* ⚡  Working on REST applications nad microservices
 
 <a href="https://www.github.com/Ledovecek" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ledovecek?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
