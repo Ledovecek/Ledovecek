@@ -8,7 +8,7 @@ I am Computer science & Networks student.
 
 * 🌍  I'm based in Czech Republic
 * ✉️  You can contact me at [ledovec.official@gmail.com](mailto:ledovec.official@gmail.com)
-* 🚀  I'm currently working on [Rajce.pro](http://rajce.pro)
+* 🚀  I'm currently working for [DERS s.r.o](https://www.ders.cz/en/domu-english/)
 * 🧠  I'm learning Kotlin
 * 🤝  I'm open to collaborating on interesting projects of all types
 * ⚡  Working on REST applications nad microservices
