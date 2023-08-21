@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/8vc2rMUDjhy6Y/giphy.gif"  />
+
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discord.com/users/%3C/%E1%8F%9Dedo%E1%8F%89ec%3E#1412" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
